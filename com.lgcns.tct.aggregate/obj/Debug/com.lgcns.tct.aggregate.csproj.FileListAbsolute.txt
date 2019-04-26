@@ -1,0 +1,40 @@
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\ASET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.exe.config
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\ASET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.exe
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\ASET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.pdb
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\ASET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.csprojResolveAssemblyReference.cache
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\ASET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.csproj.CoreCompileInputs.cache
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\ASET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.exe
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\ASET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.pdb
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\조강사\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.exe.config
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\조강사\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.exe
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\조강사\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.pdb
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\조강사\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.csprojResolveAssemblyReference.cache
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\조강사\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.csproj.CoreCompileInputs.cache
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\조강사\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.exe
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\조강사\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.pdb
+C:\IDE_LGCNS\ready\0625_A#11_A#17\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.exe.config
+C:\IDE_LGCNS\ready\0625_A#11_A#17\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.exe
+C:\IDE_LGCNS\ready\0625_A#11_A#17\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.pdb
+C:\IDE_LGCNS\ready\0625_A#11_A#17\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.csprojResolveAssemblyReference.cache
+C:\IDE_LGCNS\ready\0625_A#11_A#17\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.csproj.CoreCompileInputs.cache
+C:\IDE_LGCNS\ready\0625_A#11_A#17\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.exe
+C:\IDE_LGCNS\ready\0625_A#11_A#17\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.pdb
+C:\IDE_LGCNS\ready\0720_A#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.exe.config
+C:\IDE_LGCNS\ready\0720_A#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.exe
+C:\IDE_LGCNS\ready\0720_A#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.pdb
+C:\IDE_LGCNS\ready\0720_A#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.csprojResolveAssemblyReference.cache
+C:\IDE_LGCNS\ready\0720_A#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.csproj.CoreCompileInputs.cache
+C:\IDE_LGCNS\ready\0720_A#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.exe
+C:\IDE_LGCNS\ready\0720_A#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.pdb
+D:\TCT\기출문제 및 출제기준\[TCT기출문제]2018년_개발언어-A_1(1)\[TCT기출문제]2018년_개발언어-A_답안예시_1\C#(답안예시)\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.exe.config
+D:\TCT\기출문제 및 출제기준\[TCT기출문제]2018년_개발언어-A_1(1)\[TCT기출문제]2018년_개발언어-A_답안예시_1\C#(답안예시)\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.exe
+D:\TCT\기출문제 및 출제기준\[TCT기출문제]2018년_개발언어-A_1(1)\[TCT기출문제]2018년_개발언어-A_답안예시_1\C#(답안예시)\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.pdb
+D:\TCT\기출문제 및 출제기준\[TCT기출문제]2018년_개발언어-A_1(1)\[TCT기출문제]2018년_개발언어-A_답안예시_1\C#(답안예시)\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.csprojResolveAssemblyReference.cache
+D:\TCT\기출문제 및 출제기준\[TCT기출문제]2018년_개발언어-A_1(1)\[TCT기출문제]2018년_개발언어-A_답안예시_1\C#(답안예시)\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.exe
+D:\TCT\기출문제 및 출제기준\[TCT기출문제]2018년_개발언어-A_1(1)\[TCT기출문제]2018년_개발언어-A_답안예시_1\C#(답안예시)\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.pdb
+D:\TCT\2019 학습활동\C#언어\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.exe.config
+D:\TCT\2019 학습활동\C#언어\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.exe
+D:\TCT\2019 학습활동\C#언어\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.pdb
+D:\TCT\2019 학습활동\C#언어\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.exe
+D:\TCT\2019 학습활동\C#언어\com.lgcns.tct.aggregate\bin\Debug\com.lgcns.tct.aggregate.pdb
+D:\TCT\2019 학습활동\C#언어\com.lgcns.tct.aggregate\obj\Debug\com.lgcns.tct.aggregate.csprojResolveAssemblyReference.cache

@@ -1,0 +1,30 @@
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\ASET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\bin\Debug\com.lgcns.tct.stick.exe.config
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\ASET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\bin\Debug\com.lgcns.tct.stick.exe
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\ASET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\bin\Debug\com.lgcns.tct.stick.pdb
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\ASET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.csprojResolveAssemblyReference.cache
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\ASET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.csproj.CoreCompileInputs.cache
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\ASET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.exe
+C:\IDE_LGCNS\ready\ASET#17_BSET#10\ASET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.pdb
+C:\IDE_LGCNS\ready\0625_A#11_A#17\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\bin\Debug\com.lgcns.tct.stick.exe.config
+C:\IDE_LGCNS\ready\0625_A#11_A#17\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\bin\Debug\com.lgcns.tct.stick.exe
+C:\IDE_LGCNS\ready\0625_A#11_A#17\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\bin\Debug\com.lgcns.tct.stick.pdb
+C:\IDE_LGCNS\ready\0625_A#11_A#17\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.csprojResolveAssemblyReference.cache
+C:\IDE_LGCNS\ready\0625_A#11_A#17\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.csproj.CoreCompileInputs.cache
+C:\IDE_LGCNS\ready\0625_A#11_A#17\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.exe
+C:\IDE_LGCNS\ready\0625_A#11_A#17\A#17_B#10\A Type\SET#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.pdb
+C:\IDE_LGCNS\ready\0720_A#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\bin\Debug\com.lgcns.tct.stick.exe.config
+C:\IDE_LGCNS\ready\0720_A#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\bin\Debug\com.lgcns.tct.stick.exe
+C:\IDE_LGCNS\ready\0720_A#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\bin\Debug\com.lgcns.tct.stick.pdb
+C:\IDE_LGCNS\ready\0720_A#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.csprojResolveAssemblyReference.cache
+C:\IDE_LGCNS\ready\0720_A#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.csproj.CoreCompileInputs.cache
+C:\IDE_LGCNS\ready\0720_A#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.exe
+C:\IDE_LGCNS\ready\0720_A#17\03.솔루션및테스트케이스(언어별)\C#\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.pdb
+D:\TCT\기출문제 및 출제기준\[TCT기출문제]2018년_개발언어-A_1(1)\[TCT기출문제]2018년_개발언어-A_답안예시_1\C#(답안예시)\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\bin\Debug\com.lgcns.tct.stick.exe.config
+D:\TCT\기출문제 및 출제기준\[TCT기출문제]2018년_개발언어-A_1(1)\[TCT기출문제]2018년_개발언어-A_답안예시_1\C#(답안예시)\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\bin\Debug\com.lgcns.tct.stick.exe
+D:\TCT\기출문제 및 출제기준\[TCT기출문제]2018년_개발언어-A_1(1)\[TCT기출문제]2018년_개발언어-A_답안예시_1\C#(답안예시)\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\bin\Debug\com.lgcns.tct.stick.pdb
+D:\TCT\기출문제 및 출제기준\[TCT기출문제]2018년_개발언어-A_1(1)\[TCT기출문제]2018년_개발언어-A_답안예시_1\C#(답안예시)\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.csprojResolveAssemblyReference.cache
+D:\TCT\기출문제 및 출제기준\[TCT기출문제]2018년_개발언어-A_1(1)\[TCT기출문제]2018년_개발언어-A_답안예시_1\C#(답안예시)\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.exe
+D:\TCT\기출문제 및 출제기준\[TCT기출문제]2018년_개발언어-A_1(1)\[TCT기출문제]2018년_개발언어-A_답안예시_1\C#(답안예시)\TCT_C#Test\com.lgcns.tct\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.pdb
+D:\TCT\2019 학습활동\C#언어\com.lgcns.tct.stick\bin\Debug\com.lgcns.tct.stick.exe.config
+D:\TCT\2019 학습활동\C#언어\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.exe
+D:\TCT\2019 학습활동\C#언어\com.lgcns.tct.stick\obj\Debug\com.lgcns.tct.stick.pdb
